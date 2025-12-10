@@ -17,7 +17,10 @@ Repositório contendo resoluções de atividades, listas de exercícios e provas
   - Arquivo Binário;
   - Arquivo Texto.
 ## _Linguagem utilizada_:
+<div>
   <img align-"center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+  
 
 
 
