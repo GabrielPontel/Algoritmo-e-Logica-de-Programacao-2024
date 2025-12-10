@@ -1,0 +1,21 @@
+2
+Antonio da Silva
+Ciencia da Computacao
+4
+Algoritmos e Programação II
+AP2C2 8.0 7.5 78.5
+Fundamentos de sistema
+FDSC2 9.0 9.5 90.7
+Cálculo I
+CL1C2 7.0 8.0 95.0
+Matemática Discreta
+MADC2 8.5 7.0 80.0
+Maria Alcantara
+Pedagogia
+3
+Disciplina 1
+DI1C1 8.0 7.5 78.5
+Fundamentos 1
+FD1C1 9.0 9.5 90.7
+Sem Calculo I
+SC1C1 7.0 8.0 95.0

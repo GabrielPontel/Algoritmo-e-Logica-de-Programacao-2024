@@ -1,8 +1,16 @@
+/*
+Implemente um sistema em linguagem C para gerenciar informações de alunos utilizando arquivos e vetores de estruturas.
+O programa deve permitir:
+ - Cadastrar alunos em um arquivo texto, registrando nome, prontuário, duas notas e frequência.
+ - Importar os dados do arquivo para um vetor de estruturas.
+ - Apresentar todos os alunos, mostrando nome, prontuário, notas, média e frequência.
+ - Ordenar os alunos por nome (ordem alfabética) e apresentar o resultado.
+*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
-///� uma estrutura que contara com os dados de um aluno
+///� uma estrutura que contara com os dados de um aluno
 typedef struct
 {
     char nome[70];
@@ -85,7 +93,7 @@ int importar_dados(tp_aluno alunos[])
     }
     else
     {
-        printf("O arquivo desejado n�o foi encontrado\n");
+        printf("O arquivo desejado n�o foi encontrado\n");
     }
     fclose(arquivo);
     return tl;
@@ -114,7 +122,7 @@ void apresentar_todos_alunos(tp_aluno alunos[], int tl)
     }
 }
 
-///Funcao para validar a op��o de escolha do switch
+///Funcao para validar a op��o de escolha do switch
 char validar_opcao()
 {
     char esc;

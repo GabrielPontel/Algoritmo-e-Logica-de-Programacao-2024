@@ -1,3 +1,28 @@
+/*
+Desenvolva um programa em linguagem C para gerenciar um estoque de produtos utilizando vetores de estruturas e leitura de arquivo texto.
+O arquivo “BancodeDados.txt” contém os dados dos produtos no seguinte formato:
+Primeira linha: quantidade total de produtos
+
+Para cada produto:
+    Código
+    Nome
+    Departamento
+    Preço
+    Quantidade em estoque
+
+O programa deve:
+
+-> Importar os dados do arquivo
+    Ler o arquivo e carregar os produtos em um vetor de estruturas.
+-> Oferecer ao usuário um menu com as seguintes opções:
+    Apresentar todos os produtos (nome, código, departamento, preço e quantidade).
+    Pesquisar um produto pelo código e apresentar seus dados; caso não exista, mostrar mensagem.
+    Mostrar o total de itens no estoque, somando todas as quantidades.
+    Calcular o valor total em estoque, multiplicando quantidade × preço de cada produto.
+    Listar todos os produtos pertencentes a um determinado departamento.
+    O programa deve repetir o menu até que o usuário escolha a opção 0 – Sair.
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

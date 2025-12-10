@@ -1,0 +1,3 @@
+elemento --> p
+identificador --> #para1
+classe --> .center
