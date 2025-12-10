@@ -1,11 +1,9 @@
-# ALGORITMOS E PROGRAMAÇÃO
+# ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
 
 Repositório contendo resoluções de atividades, listas de exercícios e provas, realizadas no decorrer das disciplinas de lógica de programação do curso de bacharelado em ciência da computação do IFSP - Câmpus de Presidente Epitácio, realizados por mim, discente Gabriel Pontel de Mori, no ano de 2024.
 
 ## _Conteúdo Abordado_:
 
-- Variáveis e Tipos de Dados;
-- Entrada e Saída;
 - Estruturas Condicionais (if, else, else if);
 - Estruturas de Repetição (for, while, do while);
 - Vetores;
