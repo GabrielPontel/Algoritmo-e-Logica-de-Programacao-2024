@@ -14,10 +14,17 @@ Repositório contendo resoluções de atividades, listas de exercícios e provas
 - Manipulação de Arquivos;
   - Arquivo Binário;
   - Arquivo Texto.
-## _Linguagem utilizada_:
+## _Tecnologias_:
 <div>
   <img align-"center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
+
+## _Desenvolvedor_:
+
+ <img src="https://github.com/GabrielPontel.png" width="150" alt="Foto do perfil GitHub">
+<a href="https://github.com/GabrielPontel" target="_blank">
+<h>GabrielPontel</h>
+</a>
   
 
 
